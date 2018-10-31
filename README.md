@@ -13,5 +13,5 @@ Spell commands are typically run within a Git repository, but do not need to be.
 
 If a run is initiated within a Git repository, Spell will fail if the repository has **uncommitted** changes. Untracked changes will cause a warning, but you will still be allowed to proceed with your run.  
 
->failed happened reason>
+>failed happened reason
 
