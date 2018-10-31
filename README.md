@@ -6,4 +6,6 @@
 
 
 ####Log in
-`$ spell login`
+
+`spell login`
+
