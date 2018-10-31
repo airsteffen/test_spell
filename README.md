@@ -5,6 +5,5 @@
 #### Only for testing to run on Spell cloud machine.
 
 
-####Log in
+####Log in  
 `spell login`
-
