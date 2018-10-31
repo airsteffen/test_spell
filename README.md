@@ -6,6 +6,5 @@
 
 
 ####Log in
-
 `spell login`
 
